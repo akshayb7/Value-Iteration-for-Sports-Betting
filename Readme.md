@@ -1,0 +1,3 @@
+# Value Iteration for Sport Betting
+
+A betting man has the opportunity to make bets on the outcomes of a sporting event. If the team he bets on wins, he wins as many dollars as he has staked on that result; if his team loses, he loses his stake. The game ends when the betting man wins by reaching his goal of $100, or loses by running out of money. On each bet, he must decide what portion of his capital to stake, in integer numbers of dollars.
